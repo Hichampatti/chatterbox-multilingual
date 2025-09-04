@@ -6,4 +6,4 @@
 
 _Made with ♥️ by <a href="https://resemble.ai" target="_blank"><img width="100" alt="resemble-logo-horizontal" src="https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525" /></a>
 
-Chatterbox Multilingual is part of our code Chatterbox [Chatterbox](https://github.com/resemble-ai/chatterbox)
+Chatterbox Multilingual is part of our core [Chatterbox](https://github.com/resemble-ai/chatterbox) model.
